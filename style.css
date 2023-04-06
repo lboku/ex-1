@@ -13,12 +13,19 @@ body {
     background-color:black ;
     height: 100vh;
 }
-div {
+.header {
    
     background-color: red;
     height: 50px;
 }
-
+.text {
+    responsive: auto;
+    display: block;
+   left: 50%;
+    position: absolute;
+    color: aliceblue;
+   
+}
 
 
 
